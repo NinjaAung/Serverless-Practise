@@ -24,5 +24,8 @@
     "express": "^4.17.1",
     "serverless-http": "^2.7.0",
     "sls": "^0.1.0"
+  },
+  "devDependencies": {
+    "serverless-dynamodb-local": "^0.2.39"
   }
 }
